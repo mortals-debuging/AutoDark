@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/macos-big-sur-3840x2160-dawn-apple-october-2020-event-5k-23095.jpg</file>
+        <file>images/macos-big-sur-3840x2160-day-apple-october-2020-event-5k-23097.jpg</file>
+        <file>images/macos-big-sur-3840x2160-evening-apple-october-2020-event-5k-23100.jpg</file>
+        <file>images/macos-big-sur-3840x2160-morning-apple-october-2020-event-5k-23096.jpg</file>
+        <file>images/macos-big-sur-3840x2160-night-apple-october-2020-event-5k-23099.jpg</file>
+        <file>images/macos-big-sur-3840x2160-sunrise-apple-october-2020-event-5k-23093.jpg</file>
+        <file>images/macos-big-sur-3840x2160-sunset-apple-october-2020-event-5k-23098.jpg</file>
+    </qresource>
+</RCC>
