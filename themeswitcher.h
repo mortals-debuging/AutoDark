@@ -1,12 +1,12 @@
 #ifndef THEMESWITCHER_H
 #define THEMESWITCHER_H
-#include <QtDBus/QDBusConnection>
-#include <QtDBus/QDBusMessage>
+
 
 class ThemeSwitcher
 {
 
 public:
+    int a;
     ThemeSwitcher();
     int dbusConnect();
 };

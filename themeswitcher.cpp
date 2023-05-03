@@ -1,7 +1,9 @@
 #include "themeswitcher.h"
+#include<QtDBus/QDBusConnection>
+#include<QtDBus/QDBusMessage>
 
-ThemeSwitcher::ThemeSwitcher()
-{
+ThemeSwitcher::ThemeSwitcher(){
+    a =1;
 }
 int ThemeSwitcher::dbusConnect(){
 
